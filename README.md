@@ -4,5 +4,4 @@ My name is Meera Kurup and I am a product manager for Microsoft Foundry. In this
 
 - 🔭 I’m currently working on model lifecycling in Microsoft Foundry
 - 💬 Ask me about product management, design, entrepreneurship, education technology, computer science
-- 📫 How to reach me: meeraskurup19@gmail.com
 - ⚡ Check out my personal Github at meera-kurup  
